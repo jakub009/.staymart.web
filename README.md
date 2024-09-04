@@ -1,0 +1,2 @@
+# .staymart.web
+StayMart.sk
